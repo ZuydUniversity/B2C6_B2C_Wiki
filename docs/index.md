@@ -1,3 +1,8 @@
+---
+title: Index
+---
+
+
 <div style="display:flex; justify-content:space-between; align-items:center; padding:20px; background-color:#f8f9fa; border-bottom:1px solid #e0e0e0;">
   <a href="B2C6_B2C_Wiki/index.md" style="text-decoration:none; color:#333; font-weight:bold;">
     <h1>
