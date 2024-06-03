@@ -39,7 +39,7 @@ jobs:
 
       - name: Install Jekyll and Bundler
         run : |
-          gem installer bundler
+          gem install bundler
           bundle install
 
       - name: Build the site with Jekyll
