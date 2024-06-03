@@ -4,9 +4,9 @@ title: Index
 
 
 <div style="display:flex; justify-content:space-between; align-items:center; padding:20px; background-color:#f8f9fa; border-bottom:1px solid #e0e0e0;">
-  <a href="./index.md" style="text-decoration:none; color:#333; font-weight:bold;">
-    <h1>
-      Wiki
+  <a style="text-decoration:none; color:#333; font-weight:bold;">
+    <h1 markdown="1">
+      [Wiki](./index.md)
     </h1>
   </a>
   <nav style="display:flex; gap:15px; height:30px;">
