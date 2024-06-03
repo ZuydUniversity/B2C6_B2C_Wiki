@@ -1,10 +1,11 @@
 <div style="display:flex; justify-content:space-between; align-items:center; padding:20px; background-color:#f8f9fa; border-bottom:1px solid #e0e0e0;">
-  <h1>
-    Wiki
-  </h1>
-  <nav style="display:flex;gap:15px;">
-    <a href="#home" style="text-decoration:none; color:#333; font-weight:bold;">Home</a>
-    <a href="#FastAPI" style="text-decoration:none; color:#333; font-weight:bold;">Fast API</a>
+  <a href="../index.md" style="text-decoration:none; color:#333; font-weight:bold;">
+    <h1>
+      Wiki
+    </h1>
+  </a>
+  <nav style="display:flex; gap:15px; height:30px;">
+    <a href="./installation_guides/prerequisites.md" style="text-decoration:none; color:#333; font-weight:bold;">Installation Guides</a>
     <a href="#diensten" style="text-decoration:none; color:#333; font-weight:bold;">Diensten</a>
     <a href="#contact" style="text-decoration:none; color:#333; font-weight:bold;">Contact</a>
   </nav>
@@ -12,7 +13,7 @@
 
 ---
 
-# Prerequisites
+# Prerequisites {#prerequisites}
 
 ### Installatie
 
@@ -32,13 +33,7 @@ Onderstaand is een lijst met de links en/of commands die nodig zijn om deze te i
 
 ---
 
-# Introductie
-
-Op deze pagina komen allerlei guides die aangeven hoe iets geïnstalleerd of opgezet moet worden.
-
----
-
-# ReactTS
+# ReactTS {#reactts}
 
 Hieronder zul je vinden hoe je een React app aanmaakt voor Typescript
 
@@ -69,11 +64,7 @@ PersonForm.js
 
 ---
 
-# MariaDB
-
----
-
-# FastAPI
+# FastAPI {#fastapi}
 
 ## Installaties
 
@@ -282,7 +273,7 @@ def test_read_item():
 
 ---
 
-# Docker
+# Docker {#docker}
 
 ### Docker with FastAPI
 
@@ -368,7 +359,7 @@ volumes:
 
 Dit is een voorbeeld van een Docker compose file. Hier kan je services in definiëren zoals Front-end. Voor deze services kun je verschillende opties meegeven. Door deze opties mee te geven zorg je dat de service goed kan draaien in een Docker container. Met het commando `docker-compose up` start je deze service.
 
-# DBeaver
+# DBeaver {#dbeaver}
 
 ## Inleiding
 
@@ -404,7 +395,7 @@ Klik op "Test Connection" om te controleren of de instellingen correct zijn en D
 
 ---
 
-# Azure Virtual Machines
+# Azure Virtual Machines {#vm}
 
 ## Aanmaken Virtual Machine
 
@@ -472,7 +463,7 @@ We gaan docker insalleren met behulp van apt.
 10. Het kan zijn dat je moet kiezen tussen libraries, maar als je hier niet veel van weet tik je maar 15 in om het over te slaan.
 11. Om te kijken als het is gelukt, voeren we dit commando uit: ``sudo docker run hello-world`` Hiermee haalt die de hello-world image uit de Docker Hub.
 
-# Installatie Linter
+# Linter {#linter}
 
 ## Backend Linter
 
