@@ -4,7 +4,7 @@
   </h1>
   <nav style="display:flex;gap:15px;">
     <a href="#home" style="text-decoration:none; color:#333; font-weight:bold;">Home</a>
-    <a href="#over-ons" style="text-decoration:none; color:#333; font-weight:bold;">Over Ons</a>
+    <a href="#FastAPI" style="text-decoration:none; color:#333; font-weight:bold;">Fast API</a>
     <a href="#diensten" style="text-decoration:none; color:#333; font-weight:bold;">Diensten</a>
     <a href="#contact" style="text-decoration:none; color:#333; font-weight:bold;">Contact</a>
   </nav>
