@@ -10,6 +10,8 @@
   </nav>
 </div>
 
+---
+
 # Prerequisites
 ### Installatie
 Om de backend die aanwezig is op de github te gebruiken moeten eerst enkele dingen geïnstalleerd worden.
