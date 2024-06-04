@@ -3,11 +3,8 @@ title: Installation Guides - Reactts
 ---
 
 <div style="display:flex; justify-content:space-between; align-items:left; padding:20px; background-color:#f8f9fa; border-bottom:1px solid #e0e0e0;">
-  <h1 markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">
-    [Wiki](./index.md)
-  </h1>
   <nav style="display:flex; gap:15px; height:30px;">
-    <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Installation Guides](./installation_guides/prerequisites.md)</a>
+    <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Installation Guides](../installation_guides/prerequisites.md)</a>
   </nav>
 </div>
 
@@ -26,7 +23,7 @@ Hieronder zul je vinden hoe je een React app aanmaakt voor Typescript
 
 Benodigdheden:
 
-* Je moet node.js gedownload hebben voor het lokaal draaien van de React app: [Download Node.js](https://nodejs.org/en/download)
+- Je moet node.js gedownload hebben voor het lokaal draaien van de React app: [Download Node.js](https://nodejs.org/en/download)
 
 In de terminal moet je doormiddel van "cd" commands naar de file gaan waar het project in zal moeten zitten. Vervolgens moet je het volgende command intypen: `npx create-react-app my-app --template typescript`
 
