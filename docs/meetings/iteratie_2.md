@@ -25,8 +25,6 @@ Titel: iteratie_2
 
 ---
 
-# Iteratie 1
-
 Vrijdag eerste ‘Hello World’ applicatie op azure lopend.
 
 ## **DOD**
