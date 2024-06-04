@@ -32,8 +32,9 @@ Titel: iteratie_4
 <!-- ![projectbord](https://github.com/ZuydUniversity/B2C6_B2C_Wiki/blob/9c8125ca0f3903598a1efcdf06b138a93086757a/images/imfrastructuurproject-bord.jpg)
 ![projectbord](https://github.com/ZuydUniversity/B2C6_B2C_Wiki/blob/9c8125ca0f3903598a1efcdf06b138a93086757a/images/infrastructuurproject-tekening.png) -->
 
-![projectboard_1](https://github.com/ZuydUniversity/B2C6_B2C_Wiki/blob/main/images/imfrastructuurproject-bord.jpg)
-![projectboard_2](https://github.com/ZuydUniversity/B2C6_B2C_Wiki/blob/main/images/infrastructuurproject-tekening.png)
+![projectboard_1](./images/imfrastructuurproject-bord.jpg)
+![projectboard_2](./images/infrastructuurproject-tekening.png)
+
 
 (Credit naar Levi voor de 2e afbeelding)
 
