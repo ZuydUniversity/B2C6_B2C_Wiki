@@ -29,10 +29,9 @@ title: Onderzoek - Frontend
 Onderzoek de voor en nadelen van javascript en typescript. Kenmerken zijn ook belangrijk om mee te nemen in dit onderzoek. Als conclusie uit het onderzoek wordt bekend welke programmeertaal beter past in ons project.
 
 ### Voordelen
-|  |  |
 
-| :------------------: | :------------------: |
 | **Typescript voordelen** | **Javascript voordelen** |
+| :------------------: | :------------------: |
 | Type safety door statische typen | Gebruiksvriendelijk |
 | Fouten makkelijker op te sporen door de statische typen | Lagere 'learning curve' |
 | Superset van js, dus js code of libraries is mogelijk | Geïnterpreteerde taal en niet gecompileerd |
@@ -41,10 +40,9 @@ Onderzoek de voor en nadelen van javascript en typescript. Kenmerken zijn ook be
 | Ts is een superset van Js, hierdoor zijn de voordelen van Js ook grotendeels voordelen voor Ts | - |
 
 ### Nadelen
-|  |  |
 
-| :----------------: | :----------------: |
 | **Typescript nadelen** | **Javascript nadelen** |
+| :----------------: | :----------------: |
 | Een steilere leercurve aangezien Ts meer mogelijkheden biedt ten opzichte van js | Zoekmachines vinden het lastig de inhoud van pagina's te ontdekken als het door js wordt opgebouwd |
 | Niet alle Js libraries zijn mogelijk in combinatie met Ts | Cross-site scripting is een veel gebruikte aanval tegen js |
 | Langere ontwikkelingstijd door de toevoeging van extra controles | Dynamische typen kunnen ervoor zorgen dat fouten lastiger zijn op te sporen |

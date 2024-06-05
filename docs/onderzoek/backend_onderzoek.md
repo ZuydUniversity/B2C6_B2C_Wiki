@@ -152,10 +152,9 @@ Hiermee zou de app al werken, maar voor de sier heb ik nog het root endpoint gem
 Hierin staat alles wat Python nodig heeft om FastAPI te kunnen runnen.
 
 ## Voor- en nadelen
-|  |  |
 
-| ----------- | ----------- |
 | **Voordelen** | **Nadelen** |
+| ----------- | ----------- |
 | Ingebouwde dynamische documentatie van je eigen endpoints met extra testomgeving. | Het framework is relatief nieuw waardoor community support mogelijk minder is. |
 | Lage complexiteit door minimale hoeveelheid bestanden. | Voor mensen zonder ervaring met asynchrone code kan het ingewikkelder zijn. (Persoonlijke mening van Cas: ik denk dat we hoe dan ook de API asynchroon zullen moeten maken dus dit is een klein minpunt) |
 | [Uitgebreide documentatie](https://fastapi.tiangolo.com/) |  |
