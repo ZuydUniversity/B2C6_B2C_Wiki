@@ -41,7 +41,7 @@ Onderzoek de voor en nadelen van javascript en typescript. Kenmerken zijn ook be
 
 ### Nadelen
 | Typescript nadelen | Javascript nadelen |
-
+|  |  |
 | :----------------: | :----------------: |
 | Een steilere leercurve aangezien Ts meer mogelijkheden biedt ten opzichte van js | Zoekmachines vinden het lastig de inhoud van pagina's te ontdekken als het door js wordt opgebouwd |
 | Niet alle Js libraries zijn mogelijk in combinatie met Ts | Cross-site scripting is een veel gebruikte aanval tegen js |
