@@ -152,6 +152,8 @@ Hiermee zou de app al werken, maar voor de sier heb ik nog het root endpoint gem
 Hierin staat alles wat Python nodig heeft om FastAPI te kunnen runnen.
 
 ## Voor- en nadelen
+|  |  |
+
 | ----------- | ----------- |
 | **Voordelen** | **Nadelen** |
 | Ingebouwde dynamische documentatie van je eigen endpoints met extra testomgeving. | Het framework is relatief nieuw waardoor community support mogelijk minder is. |
