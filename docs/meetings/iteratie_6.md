@@ -17,10 +17,14 @@ Titel: iteratie_6
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 3](iteratie_3.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 4](iteratie_4.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 5](iteratie_5.md)</a>
-  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 6](iteratie_6.md)</a>
+  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">Iteratie 6</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 7](iteratie_7.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 8](iteratie_8.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 9](iteratie_9.md)</a>
 </nav>
+
+---
+
+# Iteratie 6
 
 ---

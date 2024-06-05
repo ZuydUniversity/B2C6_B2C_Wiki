@@ -20,7 +20,11 @@ Titel: iteratie_9
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 6](iteratie_6.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 7](iteratie_7.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 8](iteratie_8.md)</a>
-  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 9](iteratie_9.md)</a>
+  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">Iteratie 9</a>
 </nav>
+
+---
+
+# Iteratie 9
 
 ---

@@ -13,7 +13,7 @@ Titel: iteratie_2
 
 <nav style="display:flex; gap:15px; height:30px;">
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 1](iteratie_1.md)</a>
-  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 2](iteratie_2.md)</a>
+  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">Iteratie 2</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 3](iteratie_3.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 4](iteratie_4.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 5](iteratie_5.md)</a>
@@ -24,6 +24,8 @@ Titel: iteratie_2
 </nav>
 
 ---
+
+# Iteratie 2
 
 Vrijdag eerste ‘Hello World’ applicatie op azure lopend.
 
@@ -57,3 +59,5 @@ Laat de server aan zodat hij toegankelijk blijft. Hierdoor kan hij gebruikt word
 Onderzoeken moeten herschreven worden:
 -	Schrijf het onderzoek korter, zodat de opdrachtgever snel voor- en nadelen kan zien.
 -	Iedere groep presenteert hun onderzoek. Daarna wordt er een whiteboard sessie gehouden waarbij de voor- en nadelen van ieder onderzoek bekeken worden. Hieruit wordt een beslissing genomen voor het bedrijf. 
+
+---

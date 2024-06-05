@@ -16,7 +16,7 @@ Titel: iteratie_5
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 2](iteratie_2.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 3](iteratie_3.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 4](iteratie_4.md)</a>
-  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 5](iteratie_5.md)</a>
+  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">Iteratie 5</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 6](iteratie_6.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 7](iteratie_7.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 8](iteratie_8.md)</a>
@@ -25,7 +25,7 @@ Titel: iteratie_5
 
 ---
 
-# Meeting
+# Iteratie 5
 ## Code coverage threshhold 
 Beginnen met 80% omdat de applicatie kritische informatie bevat, dit kan wellicht nog verhoogd worden. Tijdens iteratie 5 laten we de code coverage uit en zorgen we dat het percentage omhoog gaat naar x%. Na iteratie 5 zetten we de coverage aan op dit percentage en werken we verder naar een hoger percentage. 
 
@@ -163,3 +163,5 @@ Maak zoveel mogelijk als een component, zodat je zo veel mogelijk kan hergebruik
 * Dummy data is goed
 * Medicatie voldoende voor alleen string -> Extra zou selectieveldt zijn
 * Meerdere specialisten kunnen gekoppeld worden aan een patient
+
+---

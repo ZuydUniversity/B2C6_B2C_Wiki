@@ -12,8 +12,13 @@ title: Installation Guides
 ---
 
 <nav style="display:flex; gap:15px; height:30px;">
-  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Installation guide](prerequisites.md)</a>
+  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">Installation guide</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[ReactTs](reactts.md)</a>
+  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[FastAPI](fastapi.md)</a>
+  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Docker](docker.md)</a>
+  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[DBeaver](dbeaver.md)</a>
+  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Azure VM](azurevm.md)</a>
+  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Linter](linter.md)</a>
 </nav>
 
 ---
@@ -35,3 +40,5 @@ Onderstaand is een lijst met de links en/of commands die nodig zijn om deze te i
    **NOTE: wanneer je python installeert vergeet niet aan het begin de box add python.exe to PATH aan te vinken.**
 5. Pip: Je hebt pip nodig voor het installeren van packages voor python. Je kan het volgende script downloaden: https://bootstrap.pypa.io/get-pip.py
    Dit script moet je dan met python uitvoeren via `python get-pip.py`
+
+---

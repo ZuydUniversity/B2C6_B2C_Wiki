@@ -1,5 +1,5 @@
 ---
-title: Installation Guides - Reactts
+title: Installation Guides - React TS
 ---
 
 <div style="display:flex; justify-content:space-between; align-items:left; padding:20px; background-color:#f8f9fa; border-bottom:1px solid #e0e0e0;">
@@ -13,11 +13,15 @@ title: Installation Guides - Reactts
 
 <nav style="display:flex; gap:15px; height:30px;">
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Installation guide](prerequisites.md)</a>
-  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[ReactTs](reactts.md)</a>
+  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">ReactTs</a>
+  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[FastAPI](fastapi.md)</a>
+  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Docker](docker.md)</a>
+  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[DBeaver](dbeaver.md)</a>
+  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Azure VM](azurevm.md)</a>
+  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Linter](linter.md)</a>
 </nav>
 
 ---
-
 # ReactTS {#reactts}
 
 Hieronder zul je vinden hoe je een React app aanmaakt voor Typescript
@@ -46,3 +50,5 @@ De code bevat meerdere comments om duidelijk te maken wat elke lijn doet. De bes
 
 App.js
 PersonForm.js
+
+---

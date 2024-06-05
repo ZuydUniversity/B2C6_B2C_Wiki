@@ -12,7 +12,7 @@ Titel: iteratie_1
 ---
 
 <nav style="display:flex; gap:15px; height:30px;">
-  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 1](iteratie_1.md)</a>
+  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">Iteratie 1</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 2](iteratie_2.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 3](iteratie_3.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 4](iteratie_4.md)</a>
@@ -24,6 +24,8 @@ Titel: iteratie_1
 </nav>
 
 ---
+
+# Iteratie 1
 
 Notulist &rarr; Raf
 
@@ -67,3 +69,5 @@ Voor en nadelen MySQL/NOSQL worden opgeschreven en getoond aan de opdrachtgever
   * Team 4
 * MySQL
   * Team 1
+
+---

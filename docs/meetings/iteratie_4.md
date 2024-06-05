@@ -15,7 +15,7 @@ Titel: iteratie_4
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 1](iteratie_1.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 2](iteratie_2.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 3](iteratie_3.md)</a>
-  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 4](iteratie_4.md)</a>
+  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">Iteratie 4</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 5](iteratie_5.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 6](iteratie_6.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 7](iteratie_7.md)</a>
@@ -24,6 +24,8 @@ Titel: iteratie_4
 </nav>
 
 ---
+
+# Iteratie 4
 
 2 bestuurders Git --> Cas & Levi 
 
@@ -83,3 +85,5 @@ o	Release notes?
 ## Requirements/ user stories 
 
 -	Wordt doorgeschoven naar maandag week 5
+
+---

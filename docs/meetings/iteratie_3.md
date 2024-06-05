@@ -14,7 +14,7 @@ Titel: iteratie_3
 <nav style="display:flex; gap:15px; height:30px;">
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 1](iteratie_1.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 2](iteratie_2.md)</a>
-  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 3](iteratie_3.md)</a>
+  <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">Iteratie 3</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 4](iteratie_4.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 5](iteratie_5.md)</a>
   <a markdown="1" style="text-decoration:none; color:#333; font-weight:bold;">[Iteratie 6](iteratie_6.md)</a>
@@ -25,7 +25,8 @@ Titel: iteratie_3
 
 ---
 
-# Keuzes week 3
+# Iteratie 3
+
 ### Database
 #### **MySQL**
 -	Nadeel: Draait als Azure service  we willen geen vendor lockin
@@ -85,3 +86,5 @@ VM(Ubuntu) of Docker?
 - Backend: FastAPI
 - Database: MariaDb
 - Deployment: Docker compose
+
+---
