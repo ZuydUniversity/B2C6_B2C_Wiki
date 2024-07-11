@@ -1,0 +1,40 @@
+Author	Date	Commit Hash	Commit Message	Branch
+Megalomizer\t2024-06-05 13:25:49 +0200\te52f4cd62e0dfa745b1076a7c85566ced3b86cf1\tedited the tables again\tmain
+Megalomizer\t2024-06-05 13:14:46 +0200\tcaf0c35742752f736d7add0f84577aab0ebcf702\tfinal fix\tmain
+Megalomizer\t2024-06-05 13:13:02 +0200\t063ca22ed024f4855d36c09e6ba51f687df6cfb9\tfixed tables for the last time\tmain
+Megalomizer\t2024-06-05 13:10:38 +0200\t82c8609ed54f09d0cf4481cc99b8667480561397\tyet another table change\tmain
+Megalomizer\t2024-06-05 13:06:49 +0200\t657720ac79e76d4d45f40ea7a24b12bbb1c0091d\tfixed tables\tmain
+Megalomizer\t2024-06-05 13:01:14 +0200\t9ef1e51d0e548522548cef3ab1e8ad9f1dbdf53a\tCompleted complete conversion from wiki to github pages\tmain
+Megalomizer\t2024-06-05 12:22:00 +0200\t12e758ade618939defdcb2c02455ad678650638f\tAdded all installation guides\tmain
+Megalomizer\t2024-06-04 23:43:07 +0200\t7865df8102eefad50f22c323877f029ea32882a3\tchanged image location\tmain
+Megalomizer\t2024-06-04 23:40:06 +0200\t1eb47de0b179a282d3a2f3fecf1a0fc49be50c9e\tchanged images from iteration_4.md\tmain
+Megalomizer\t2024-06-04 17:44:10 +0200\t9f7e592680d4f7d22bf66e2dbc4fd2fe67b4cc52\tfixed typo in iteration_2.md\tmain
+Megalomizer\t2024-06-04 17:13:19 +0200\t5a8751428fae53c8aed14ecba7b3144bd746cde6\tAdded all iterations from Wiki\tmain
+Megalomizer\t2024-06-04 11:32:23 +0200\t4630567ac4afde1fe276865a20d29aebf066ed44\tFixed alround pathing for the first pages\tmain
+Megalomizer\t2024-06-03 20:31:53 +0200\t8292c7abed652af3c6139c63bee4d24a9090a45d\tfixed pathing for real now\tmain
+Megalomizer\t2024-06-03 20:27:40 +0200\t641afc6422b4ef5ce0acde457743cc0a39971b33\tmore changes to the fun lijnks\tmain
+Megalomizer\t2024-06-03 20:23:01 +0200\t474289d8fd0ea791e53e15139caac4d2972506d5\tedited a link again\tmain
+Megalomizer\t2024-06-03 20:19:12 +0200\td0653e3cc8a952281f6e70baeb5936b0021c4602\tfixed a link\tmain
+Megalomizer\t2024-06-03 20:16:40 +0200\ta46c6c0c0663d03591edd3cbccdb4c1a81e6d447\tadded titles\tmain
+Megalomizer\t2024-06-03 20:13:45 +0200\t46c72abac8201c6c72da502c08575a1bebce1627\tchanged link\tmain
+Megalomizer\t2024-06-03 20:11:39 +0200\tff590f2b322d499682168af2dfd9782a8465e086\ttried some page linking\tmain
+Megalomizer\t2024-06-03 17:29:48 +0200\t26aee4b1483aed149d32ea583bf95413c48c87b0\tChanged 1 link\tmain
+Megalomizer\t2024-06-03 17:27:43 +0200\t3d072e7082361bbea91d0979895c7964b63b9af2\tadded inline css\tmain
+Megalomizer\t2024-06-03 17:17:37 +0200\t64942f73cdd15f5567ed09710e0620aff6ec7684\tremoved general files not used\tmain
+Megalomizer\t2024-06-03 17:12:50 +0200\t6d2050c58f1606cbdea43daa9fcf5f04accc4e4e\tadded gemfile\tmain
+Megalomizer\t2024-06-03 17:09:28 +0200\tcace94b56d353799e66508394cf3329bfcdc11e1\ttype fout\tmain
+Megalomizer\t2024-06-03 17:08:17 +0200\t005cb56d74505723eda196f465f565719ba88041\tspecificeer ruby versie\tmain
+Megalomizer\t2024-06-03 17:06:39 +0200\t26b7926eae53c96723f71409aa0592bce3e9f9ea\tedited some yaml/yml files\tmain
+Megalomizer\t2024-06-03 16:57:46 +0200\t604c7214e6beb1c9c989ebd8a0ac1b0d15151a2c\tchanged github pages files\tmain
+Levi Funk\t2024-06-03 16:42:34 +0200\t10933115203a1875a60fa7888a743c3ba1a4c941\tCreate static.yml for wiki deployment\tmain
+Levi Funk\t2024-06-03 16:37:53 +0200\tee4a13674b6388de47b6c4ac30161becaeb9432d\tCreate styles.css\tmain
+Levi Funk\t2024-06-03 16:37:41 +0200\td9610eb24215b8baa533c5f47d2feb42be3127e5\tUpdate index.md\tmain
+Levi Funk\t2024-06-03 16:37:14 +0200\t9f036b9a118f17854a702db8fd9130dfb7fcc5c5\tCreate index.html\tmain
+Levi Funk\t2024-06-03 16:22:07 +0200\tdadc1f27394d96ac3472784a5627bdce7267c627\tUpdate index.md\tmain
+Levi Funk\t2024-06-03 16:18:23 +0200\t47978893b6be5bb2ebefa65609b7ffb45872b112\tUpdate index.md\tmain
+Levi Funk\t2024-06-03 16:09:12 +0200\tda55d2b7f1597adfada7c94658bf30a12b278c75\tCreate index.md for github pages\tmain
+Jeroen S\t2024-05-28 14:49:52 +0200\t9c8125ca0f3903598a1efcdf06b138a93086757a\tMerge pull request #1 from ZuydUniversity/JeroenSiebers04-patch-1\tmain
+Jeroen S\t2024-05-28 14:49:12 +0200\t1b61e0e141ba39d5e6d1c40d9ec921db438ae1d0\tAdd files via upload\tmain
+Jeroen S\t2024-05-28 14:47:28 +0200\t152536ce8d4a363ff0d9927f5e9074810144bb6b\tCreate temp.txt\tmain
+Rob Cilissen-Grassére\t2024-05-07 14:30:30 +0200\t872ca720ee90ceb8d64233f5a6069b26c88813ac\tUpdate README.md\tmain
+Rob Cilissen-Grassére\t2024-05-07 14:30:05 +0200\t44d8000611843c97027845df68e3e3c9443b71f2\tInitial commit\tmain
